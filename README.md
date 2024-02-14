@@ -4,6 +4,6 @@ Esse repositório tem o objetivo de estudar na prática aplicações de Machine 
 
 Abaixo algumas documentações oficiais  usadas nos projetos: 
 
-Bibliotexa scikit-learn
+Biblioteca Scikit-Learn
 
 https://scikit-learn.org/stable/index.html
